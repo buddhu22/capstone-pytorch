@@ -6,3 +6,4 @@ train-images-idx3-ubyte.gz
 train-labels-idx1-ubyte.gz
 
 fashion-mnist_train.csv
+*.png
